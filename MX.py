@@ -26,8 +26,8 @@ banner=("""\033[1;37m    ###    ##    ## #### ##    ##  ###### 🔥
 [+]═════════════════════════════════════════
 [+] Author    : IMTIAZ AKING
 [+] Github    : AKING110
-[+] Facebook  : IMTIAZ.AKING.07
-[+] Tool Type : Premium
+[+] Facebook  : IMTIAZ.FUCK
+[+] Tool Type : FREE
 [+] Version   : 1.3.6
 [+] this massage for haters : \033[1;31mjust feel me 🔥
 \033[1;37m[+]═════════════════════════════════════════""")
